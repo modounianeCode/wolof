@@ -1,0 +1,7 @@
+.wolof{
+    background-color: aqua
+}
+#container{
+    display: flex;
+    justify-content: space-around;
+}
