@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.4">
+  <diagram name="Page-1" id="NRYYNt1gzcBoKSNGkn0T">
+    <mxGraphModel dx="481" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-21" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Etudiant" vertex="1">
+          <mxGeometry height="160" width="290" x="210" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-22" parent="xrJebjhb3uPYOrXVG4Qg-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;u&gt;id&lt;/u&gt;&lt;/div&gt;&lt;div&gt;prenom&lt;/div&gt;&lt;div&gt;nom&amp;nbsp;&lt;/div&gt;&lt;div&gt;matricule&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="290" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-35" parent="xrJebjhb3uPYOrXVG4Qg-21" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" value="" vertex="1">
+          <mxGeometry height="10" width="290" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-24" parent="xrJebjhb3uPYOrXVG4Qg-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;ecrire()&lt;/div&gt;&lt;div&gt;parler()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="290" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-29" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="120" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-31" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" value="" vertex="1">
+          <mxGeometry height="150" width="30" x="170" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="entité étudiant&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="130" x="60" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-34" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="74" width="20" x="500" y="236" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="attributs ou propriétés" vertex="1">
+          <mxGeometry height="30" width="200" x="500" y="258" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-38" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;size=0.5;" value="" vertex="1">
+          <mxGeometry height="50" width="20" x="500" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJebjhb3uPYOrXVG4Qg-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&amp;nbsp; &amp;nbsp;fonctions ou méthodes" vertex="1">
+          <mxGeometry height="30" width="190" x="500" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
